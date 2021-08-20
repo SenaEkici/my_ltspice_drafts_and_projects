@@ -1,0 +1,29 @@
+Circuit: * C:\Users\lenovo\Documents\LTSpice_Projects\hw2.asc
+
+WARNING: Node N003 is floating.
+
+Model "pmos": Oxide thickness thinner than recommended for a level 1 MOSFET.
+Instance "m2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m2": Width narrower than recommended for a level 1 MOSFET.
+Model "nmos": Oxide thickness thinner than recommended for a level 1 MOSFET.
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m1": Width narrower than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Dec 25 21:23:30 2020
+Total elapsed time: 0.258 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3573
+traniter = 3549
+tranpoints = 1187
+accept = 1103
+rejected = 84
+matrix size = 6
+fillins = 0
+solver = Normal
+Matrix Compiler1:      11 opcodes  0.1/[0.1]/0.1
+Matrix Compiler2: off  [0.1]/0.2/0.2
+
